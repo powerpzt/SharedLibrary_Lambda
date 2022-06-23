@@ -1,0 +1,2 @@
+$ ./makeshared.sh
+$ ./run.sh
